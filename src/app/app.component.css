@@ -1,3 +1,10 @@
-p {
+h2 {
+  color: #FFF;
   font-family: Lato;
+}
+a, a:visited {
+  color: #FFF;
+}
+a:hover {
+  color: brown;
 }
